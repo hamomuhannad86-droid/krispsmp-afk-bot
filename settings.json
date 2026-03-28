@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "http://krispsmp.aternos.me",
+    "ip": "krispsmp.aternos.me:22284",
     "port": 22284,
     "version": "",
     "try-creative": false
